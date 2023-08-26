@@ -18,9 +18,9 @@ Template with aligned M3 holes and board to board connector placement.
 # Design Considerations
 - Can be larger than Peripheral SOM
 - Front layer (top) will be sandwiched with Peripheral SOM
+  - **Throughole and other bottom mounted Peripheral SOM components may interfere with front layer (top)**
   - Outline provided on drawing layer for convenience
 
 # Images
-![image](https://github.com/lhr-solar/Peripheral-SOM-Daughterboard-Template/assets/89665539/7662b4d7-37b9-45d3-a30f-5338f41954a8)
-![image](https://github.com/lhr-solar/Peripheral-SOM-Daughterboard-Template/assets/89665539/3f09ea42-a833-43d5-a965-a6d4df48f8d6)
-
+![image](https://github.com/lhr-solar/Peripheral-SOM-Daughterboard-Template/assets/89665539/a94c2161-674a-4dec-a41e-15f87d97375c)
+![image](https://github.com/lhr-solar/Peripheral-SOM-Daughterboard-Template/assets/89665539/f9905dd1-f083-41d3-b77d-e2b347df0191)

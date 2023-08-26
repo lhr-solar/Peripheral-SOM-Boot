@@ -18,6 +18,7 @@ Template with aligned M3 holes and board to board connector placement.
 # Design Considerations
 - Can be larger than Peripheral SOM
 - Front layer (top) will be sandwiched with Peripheral SOM
+  - **Throughole and other bottom mounted Peripheral SOM components may interfere with front layer (top)**
   - Outline provided on drawing layer for convenience
 
 # Images

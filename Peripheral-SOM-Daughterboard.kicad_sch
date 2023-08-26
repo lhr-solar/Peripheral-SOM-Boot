@@ -618,8 +618,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 492cf7b7-0d80-499f-8d4b-f6d98097ec35)
   )
-  (text "Template by Andrew Nguyen" (at 177.8 170.18 0)
-    (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
+  (text "Template by Andrew Nguyen" (at 177.8 168.91 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 574fd8e2-da3a-4be9-898d-3cdd93c81d51)
   )
   (text "Boot Features" (at 12.7 16.51 0)
@@ -732,7 +732,7 @@
     (pin "8" (uuid 6f17e2c0-c893-4476-82d4-9358f6f678be))
     (pin "9" (uuid d8bebb8b-e3f6-43ee-a79d-ea28b72f7e41))
     (instances
-      (project "Peripheral-SOM-Boot"
+      (project "Peripheral-SOM-Daughterboard"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
           (reference "J1") (unit 1)
         )
@@ -762,7 +762,7 @@
     )
     (pin "1" (uuid 6ffb20a6-cbbb-4d97-8db0-595c519bd7c3))
     (instances
-      (project "Peripheral-SOM-Boot"
+      (project "Peripheral-SOM-Daughterboard"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
           (reference "#PWR07") (unit 1)
         )
@@ -797,7 +797,7 @@
           (reference "#PWR033") (unit 1)
         )
       )
-      (project "Peripheral-SOM-Boot"
+      (project "Peripheral-SOM-Daughterboard"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
           (reference "#PWR05") (unit 1)
         )
@@ -832,7 +832,7 @@
     )
     (pin "1" (uuid f59fa7f5-3b99-47ef-8dc0-6ee5b361dfc8))
     (instances
-      (project "Peripheral-SOM-Boot"
+      (project "Peripheral-SOM-Daughterboard"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
           (reference "#PWR04") (unit 1)
         )
@@ -862,7 +862,7 @@
     )
     (pin "1" (uuid d1d3b10e-74e4-4992-9806-75a8ecdcbc06))
     (instances
-      (project "Peripheral-SOM-Boot"
+      (project "Peripheral-SOM-Daughterboard"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
           (reference "#PWR01") (unit 1)
         )
@@ -897,7 +897,7 @@
           (reference "#PWR033") (unit 1)
         )
       )
-      (project "Peripheral-SOM-Boot"
+      (project "Peripheral-SOM-Daughterboard"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
           (reference "#PWR02") (unit 1)
         )
@@ -931,7 +931,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "Peripheral-SOM-Boot"
+      (project "Peripheral-SOM-Daughterboard"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
           (reference "MH1") (unit 1)
         )
@@ -965,7 +965,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "Peripheral-SOM-Boot"
+      (project "Peripheral-SOM-Daughterboard"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
           (reference "MH2") (unit 1)
         )
@@ -1000,7 +1000,7 @@
     )
     (pin "1" (uuid b985f471-4204-445c-818e-962c77a20e73))
     (instances
-      (project "Peripheral-SOM-Boot"
+      (project "Peripheral-SOM-Daughterboard"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
           (reference "#PWR03") (unit 1)
         )
@@ -1030,7 +1030,7 @@
     )
     (pin "1" (uuid e9be77e2-5c0c-4953-ac06-e8bdf0c51821))
     (instances
-      (project "Peripheral-SOM-Boot"
+      (project "Peripheral-SOM-Daughterboard"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
           (reference "#PWR06") (unit 1)
         )

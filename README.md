@@ -23,4 +23,5 @@ Template with aligned M3 holes and board to board connector placement.
 
 # Images
 ![image](https://github.com/lhr-solar/Peripheral-SOM-Daughterboard-Template/assets/89665539/a94c2161-674a-4dec-a41e-15f87d97375c)
-![image](https://github.com/lhr-solar/Peripheral-SOM-Daughterboard-Template/assets/89665539/f9905dd1-f083-41d3-b77d-e2b347df0191)
+![image](https://github.com/lhr-solar/Peripheral-SOM-Daughterboard-Template/assets/89665539/2d9a62ae-b74b-4883-b8c6-16ed2948d7ea)
+

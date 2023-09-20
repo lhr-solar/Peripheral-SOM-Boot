@@ -12,7 +12,7 @@ Template with aligned M3 holes and board to board connector placement.
 - I2C2 can be swapped out for 2xGPIO
 - 3.3V Power
 - 3.3V Analog
-- 5V Power
+- 5V Power (Unisolated)
 - Associated Grounds
 
 # Design Considerations
